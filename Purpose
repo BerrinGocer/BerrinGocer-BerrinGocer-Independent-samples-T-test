@@ -1,0 +1,9 @@
+Data: dataset in csv format "https://www.kaggle.com/datasets/mohithsairamreddy/salary-data?resource=download"
+
+
+Hypotheses:
+Hypothesis 1: Women, on average, earn less than men.
+
+Hypothesis 2: Employees with 10 years of work experience earn twice as much as those with 10 years of work experience.
+
+Testing these hypotheses on the dataset using the "independent samples t-test" method
